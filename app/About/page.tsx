@@ -9,11 +9,11 @@ import About from '../Components/About'
 const page = () => {
   return (
     <div className='justify-items-center'>
-        <div className="md:mt-40 lg:mt-0">
+        <div>
       <Card1 />
       </div>
 
-      <div className="md:mt-40 lg:mt-0">
+      <div>
       <About />
       </div>    
 
