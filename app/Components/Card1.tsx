@@ -8,7 +8,7 @@ const Card1 = () => {
 
 {/* 1st div */}
 
-        <div className='lg:w-[634px] lg:h-[478px] w-[342] h-[281] bg-[#2A254B]'>
+        <div className='lg:w-[634px] lg:h-[478px] w-[342px] h-[281px]  bg-[#2A254B]'>
 
         <div className=' flex-col justify-center items-center gap-[100px]
         lg:w-[630px] lg:h-[440px] w-[342] h-[281]'>
