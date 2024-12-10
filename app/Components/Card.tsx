@@ -4,7 +4,8 @@ import Image from 'next/image'
 const Card = () => {
   return (
     <div className='justify-items-center'>
-      <div className='grid grid-cols-2 lg:flex lg:justify-center lg:items-center gap-4 lg:gap-2 w-full h-[634px]'>
+      <div className='grid grid-cols-2 lg:flex lg:justify-center lg:items-center 
+      gap-4 md:gap-3 lg:gap-2 lg:w-full w-full md:w-96 h-[634px]'>
 
         {/* 1st card */}
         
