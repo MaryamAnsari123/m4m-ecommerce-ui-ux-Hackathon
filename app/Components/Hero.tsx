@@ -3,7 +3,7 @@ import React from 'react'
 const Hero = () => {
   return (
     <div className='justify-items-center'>
-      <div className="relative w-full h-[704px] mt-[10px] bg-cover bg-[url('/image/herobg.png')]">
+      <div className="relative w-full h-[704px] mt-[10px] bg-cover bg-center  opacity-100 bg-[url('/image/herobg.png')]">
          
          {/* White div */}
         <div className=' flex-col justify-center items-center gap-[70px]
