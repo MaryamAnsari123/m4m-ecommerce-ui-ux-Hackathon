@@ -5,9 +5,9 @@ import Dropdown from './DropDown'
 const Header = () => {
   return (
     <div className='justify-items-center'>
-      <div className='flex flex-col justify-center items-center w-full h-[132px]'>
+      <div className='flex flex-col justify-center items-center w-[1440px] h-[132px]'>
             {/* Top */}
-            <div className='bg-white mt-[20px] gap-[667px] flex w-full h-[30px] justify-center items-center'>
+            <div className='bg-white mt-[20px] gap-[577px] flex w-[1440px] h-[30px] justify-center items-center'>
             
             <div>
             <Search className='w-[24px] h-[24px]' />
