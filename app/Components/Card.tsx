@@ -63,7 +63,7 @@ const Card = () => {
 
         {/* Button */}
 
-      <div className='mb-4'>
+      <div className='mb-4 mt-10'>
       <button className='bg-[#F9F9F9] py-4 px-8 font-medium text-base'>
                 View Collection
             </button>
