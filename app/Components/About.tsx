@@ -4,7 +4,7 @@ import Image from 'next/image'
 const About = () => {
   return (
     <div className='justify-items-center mt-20 md:mt-48'>
-      <div className='flex flex-col lg:flex lg:flex-row justify-center 
+      <div className='flex flex-col lg:flex lg:flex-row justify-center gap-2
       items-center w-[342px] h-[639px] lg:w-full lg:h-[603px]'>
 
       <div className=''>
@@ -18,7 +18,7 @@ const About = () => {
 <div className='w-[311px] h-[596px] lg:w-[720px] lg:h-[603px] bg-gray-200'>
     <div className='w-[311px] h-[396px] lg:w-[536px] lg:h-[225px]'>
     
-    <p className='mt-8 text-lg w-[263px] h-[84px] lg:w-[536px] lg:mt-[72px] lg:ml-[84px] lg:h-[68px] font-medium text-start'>
+    <p className='mt-8 text-lg w-[263px] h-[84px] lg:w-[536px] lg:mt-[72px] p-2 lg:ml-[84px] lg:h-[68px] font-medium text-start'>
     Our service isnt just personal, its actually
     hyper personally exquisite
         </p>
