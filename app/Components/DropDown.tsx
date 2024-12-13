@@ -42,6 +42,14 @@ const Dropdown = () => {
             >
               All product
             </Link>
+
+            <Link
+              href="/ProductListing"
+              className="block px-4 py-2 text-sm text-black hover:bg-blue-100"
+            >
+            Product Listing
+            </Link>
+
           </div>
         </div>
       )}
