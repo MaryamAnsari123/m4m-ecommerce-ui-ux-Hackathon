@@ -5,7 +5,7 @@ const Card = () => {
   return (
     <div className='justify-items-center'>
       <div className='grid grid-cols-2 lg:flex lg:justify-center lg:items-center 
-      gap-4 md:gap-3 lg:gap-2 lg:w-full w-full md:w-96 h-[634px]'>
+      gap-4 md:gap-3 lg:gap-2 lg:w-full w-full md:w-96 h-[534px]'>
 
         {/* 1st card */}
         
