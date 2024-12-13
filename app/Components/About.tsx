@@ -16,9 +16,9 @@ const About = () => {
     </div>
 
 <div className='w-[311px] h-[596px] lg:w-[720px] lg:h-[603px] bg-gray-200'>
-    <div className='w-[311px] h-[396px] lg:w-[536px] lg:h-[225px]'>
+    <div className='w-[311px] h-[396px] lg:w-[536px] lg:h-[225px] p-2'>
     
-    <p className='mt-8 text-lg w-[263px] h-[84px] lg:w-[536px] lg:mt-[72px] p-2 lg:ml-[84px] lg:h-[68px] font-medium text-start'>
+    <p className='mt-8 text-lg w-[263px] h-[84px] lg:w-[536px] lg:mt-[72px] lg:ml-[84px] lg:h-[68px] font-medium text-start'>
     Our service isnt just personal, its actually
     hyper personally exquisite
         </p>
