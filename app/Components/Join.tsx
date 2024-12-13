@@ -3,7 +3,7 @@ import React from 'react'
 
 const Join = () => {
   return (
-    <div className='justify-items-center mb-20 md:mt-32 p-2'>
+    <div className='justify-items-center mb-20 md:mt-32 lg:mt-3 p-2'>
       <div className="relative lg:w-[1440px] w-[340px] lg:h-[444px] h-[370px] bg-cover 
       bg-center bg-[url('/image/join.png')]">
 
