@@ -3,8 +3,8 @@ import React from 'react'
 const Footer = () => {
   return (
     <div className='justify-items-center'>
-      <div className='flex flex-col lg:flex-row justify-center gap-[56px] 
-      items-center w-full lg:h-[310px] h-[968px] bg-[#2A254B]'>
+      <div className='flex flex-col lg:flex-row lg:justify-center gap-[56px] 
+      lg:items-center justify-start items-start p-5 w-full lg:h-[310px] h-[968px] bg-[#2A254B]''>
 
         {/* 1st div */}
         <div className='w-[163px] h-[175px] text-white'>
