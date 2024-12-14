@@ -21,7 +21,9 @@ const Header = () => {
 
             <div className='flex justify-center items-center gap-2'>
               <Dropdown />
+                          <Link href="/ShoppingBasket">
             <ShoppingCart className='w-[24px] h-[24px]' />
+            </Link>
             <CircleUser className='w-[24px] h-[24px]' />
             </div>
 
