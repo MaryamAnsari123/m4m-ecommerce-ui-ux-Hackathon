@@ -13,8 +13,13 @@ const MobileHeader = () => {
             </div>
 
             <div className='flex justify-center items-center gap-2'>
-            <Dropdown />
+                <Link href="/ShoppingBasket">
+              <ShoppingCart className='w-[16px] h-[16px]' />
+              </Link>
+            
               <Search className='w-[16px] h-[16px]' />
+
+                <Dropdown />
            
             </div>
 
