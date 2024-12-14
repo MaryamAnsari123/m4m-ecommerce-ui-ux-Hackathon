@@ -1,6 +1,8 @@
 import { CircleUser, Search, ShoppingCart } from 'lucide-react'
 import React from 'react'
 import Dropdown from './DropDown'
+import Link from "next/link"
+
 
 const Header = () => {
   return (
