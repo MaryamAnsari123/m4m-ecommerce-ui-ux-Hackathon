@@ -4,7 +4,7 @@ import Dropdown from "./DropDown"
 const MobileHeader = () => {
     return (
         <div className="justify-items-center">
-      <div className="flex justify-center gap-44 md:gap-80 items-center w-[390px] h-[69px]">
+      <div className="flex justify-center gap-36 md:gap-80 items-center w-[390px] h-[69px]">
 
             <div>
             <h1 className='text-lg font-semibold'>
