@@ -1,5 +1,6 @@
-import { ShoppingCart, Search } from "lucide-react"
+import { MenuIcon, Search, ShoppingCart } from "lucide-react"
 import Dropdown from "./DropDown"
+import Link from "next/link"
 
 const MobileHeader = () => {
     return (
@@ -13,14 +14,14 @@ const MobileHeader = () => {
             </div>
 
             <div className='flex justify-center items-center gap-2'>
-                <Link href="/ShoppingBasket">
+           
+              <Link href="/ShoppingBasket">
               <ShoppingCart className='w-[16px] h-[16px]' />
               </Link>
-            
+              
               <Search className='w-[16px] h-[16px]' />
-
-                <Dropdown />
            
+              <Dropdown />
             </div>
 
       </div>
