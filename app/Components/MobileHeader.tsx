@@ -1,4 +1,4 @@
-import { MenuIcon, Search } from "lucide-react"
+import { ShoppingCart, Search } from "lucide-react"
 import Dropdown from "./DropDown"
 
 const MobileHeader = () => {
